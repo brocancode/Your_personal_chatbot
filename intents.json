@@ -3,7 +3,7 @@
     {
       "tag": "greeting",
       "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
-      "responses": ["Hey there! How's it going?", "Hello buddy! 😄", "Hi! Great to see you!"],
+      "responses": ["Hey baby! How's it going?", "Hello love! 😄", "Hi! Great to see you!"],
       "gifs": [
         "https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif",
         "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"
