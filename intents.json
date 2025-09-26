@@ -18,6 +18,22 @@
         "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
       ]
     },
+
+    {
+  "tag": "love",
+  "patterns": ["do you love me?", "I love you", "i really love you", "love ya"],
+  "responses": [
+    "I love you! ❤️"
+    
+  ],
+  "gifs": [
+    "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif",
+    "https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif",
+    "https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif",
+    "https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif",
+    "https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif"
+]
+},
     {
       "tag": "mood_sad",
       "patterns": ["i'm sad", "feeling down", "unhappy", "depressed"],
@@ -30,7 +46,7 @@
     {
       "tag": "mood_happy",
       "patterns": ["i'm happy", "feeling great", "awesome", "excited"],
-      "responses": ["Yay! Keep smiling 😄", "So happy for you! 🎉"],
+      "responses": ["I love you", "Yay! Keep smiling 😄", "So happy for you! 🎉"],
       "gifs": [
         "https://media.giphy.com/media/111ebonMs90YLu/giphy.gif",
         "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"
@@ -39,11 +55,25 @@
     {
       "tag": "joke",
       "patterns": ["tell me a joke", "make me laugh", "funny"],
-      "responses": ["Why did the chicken cross the road? 😂", "I would tell you a joke about pizza… but it’s too cheesy! 🧀"],
+      "responses": ["Absolutely! Get ready to laugh: Jana Gana Mana😂", "I have a joke about unemployment… but none of them work.",
+    "Why don't graveyards ever get overcrowded? People are dying to get in.",
+    "I told my wife she should embrace her mistakes… she hugged me.",
+    "I'd tell you a construction joke… but I'm still working on it.",
+    "Why don't skeletons fight each other? They don't have the guts.",
+    "I have a lot of jokes about death… but they all die.",
+    "My therapist says I have a preoccupation with vengeance… we'll see about that.",
+    "I used to have a fear of hurdles… but I got over it.",
+    "Why did the old man fall in the well? Because he couldn't see that well.",
+    "Parallel lines have so much in common… it's a shame they'll never meet.", "I would tell you a joke about pizza… but it's too cheesy! 🧀"],
       "gifs": [
-        "https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif",
-        "https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"
-      ]
+    "https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif",
+    "https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif",
+    "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif",
+    "https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif",
+    "https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif"
+]
     },
     {
       "tag": "compliment",
