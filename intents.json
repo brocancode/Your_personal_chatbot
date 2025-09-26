@@ -1,0 +1,94 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+      "responses": ["Hey there! How's it going?", "Hello buddy! 😄", "Hi! Great to see you!"],
+      "gifs": [
+        "https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif",
+        "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "see you", "good night", "later"],
+      "responses": ["Catch you later!", "Bye! Have a great day!"],
+      "gifs": [
+        "https://media.giphy.com/media/3o6ZsY5p2Bf8f2A6Vq/giphy.gif",
+        "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+      ]
+    },
+    {
+      "tag": "mood_sad",
+      "patterns": ["i'm sad", "feeling down", "unhappy", "depressed"],
+      "responses": ["Aww, cheer up! 🐶🌸", "Sending you a virtual hug! 🤗"],
+      "gifs": [
+        "https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif",
+        "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+      ]
+    },
+    {
+      "tag": "mood_happy",
+      "patterns": ["i'm happy", "feeling great", "awesome", "excited"],
+      "responses": ["Yay! Keep smiling 😄", "So happy for you! 🎉"],
+      "gifs": [
+        "https://media.giphy.com/media/111ebonMs90YLu/giphy.gif",
+        "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"
+      ]
+    },
+    {
+      "tag": "joke",
+      "patterns": ["tell me a joke", "make me laugh", "funny"],
+      "responses": ["Why did the chicken cross the road? 😂", "I would tell you a joke about pizza… but it’s too cheesy! 🧀"],
+      "gifs": [
+        "https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif",
+        "https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"
+      ]
+    },
+    {
+      "tag": "compliment",
+      "patterns": ["you're awesome", "i like you", "good job"],
+      "responses": ["Thank you! You're amazing too 😎", "Aw, that means a lot! 😊"],
+      "gifs": [
+        "https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif",
+        "https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif"
+      ]
+    },
+    {
+      "tag": "hobby",
+      "patterns": ["i played football", "i watched a movie", "i read a book"],
+      "responses": ["Sounds fun! How was it?", "Nice! Tell me more about it!"],
+      "gifs": [
+        "https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif",
+        "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"
+      ]
+    },
+    {
+      "tag": "advice",
+      "patterns": ["give me advice", "what should i do", "help me"],
+      "responses": ["Trust yourself and keep going!", "Take a deep breath, you got this! 💪"],
+      "gifs": [
+        "https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif",
+        "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thanks", "thank you", "thx"],
+      "responses": ["You're welcome! 😄", "No problem, happy to help!"],
+      "gifs": [
+        "https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif",
+        "https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif"
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": ["how's the weather", "is it sunny", "rain today"],
+      "responses": ["I hope it’s sunny where you are! ☀️", "Looks like it’s raining, stay dry! ☔️"],
+      "gifs": [
+        "https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif",
+        "https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"
+      ]
+    }
+  ]
+}
